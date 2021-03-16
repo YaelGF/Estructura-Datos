@@ -1,9 +1,13 @@
+from os import system
+
+system("clear")
+
 #pilas
 ls = [12,13,14,15,16]
 
 print(ls)
 
-s=ls.pop()
+s = ls.pop()
 
 print("*"*25)
 
@@ -18,8 +22,6 @@ ls = [12,13,14,15,16]
 print(ls)
 
 s = ls.pop(0)
-
-print("*"*25)
 
 print(s)
 print(ls)

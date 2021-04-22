@@ -85,7 +85,6 @@ if __name__ == "__main__":
         print("4) Impresion Posorden")
         print("5) Impresion Inorden")
         print("6) Impresion Preorden")
-        print("7) Eliminar Hoja")
         print("8) Salir")
         opcion = int(input("\nIngrese su opcion: "))   
         if opcion == 1:

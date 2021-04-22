@@ -1,0 +1,10 @@
+Listas
+
+Simples:
+Una lista enlazada simple es una estructura de datos en la que cada elemento apunta al siguiente. De este modo, teniendo la referencia del principio de la lista podemos acceder a todos los elementos de la misma. La figura 1 representa esta estructura de datos.
+
+Dobles:
+una lista doblemente enlazada es una estructura de datos que consiste en un conjunto de nodos enlazados secuencialmente. Cada nodo contiene tres campos, dos para los llamados enlaces, que son referencias al nodo siguiente y al anterior en la secuencia de nodos, y otro más para el almacenamiento de la información.
+
+Circulares:
+Una lista circular es una lista lineal en la que el último nodo a punta al primero.Las listas circulares evitan excepciones en las operaciones que se realicen sobre ellas. No existen casos especiales, cada nodo siempre tiene uno anterior y uno siguiente.

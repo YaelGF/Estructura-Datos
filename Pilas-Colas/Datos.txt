@@ -1,0 +1,5 @@
+Pilas:
+Una pila (stack en inglés) es una estructura de datos en la que el modo de acceso a sus elementos es de tipo LIFO (del inglés Last In First Out, último en entrar, primero en salir) que permite almacenar y recuperar datos, es decir, la inserción y extracción de elementos de la pila siguen el principio LIFO ya que el último elemento que se agrega a la pila es el primero en salir de la misma. 
+
+Colas:
+Una cola es una estructura de datos en la que el modo de acceso a sus elementos es de tipo FIFO (del inglés First Input First Output, primero en entrar, primero en salir). Permite almacenar y recuperar datos, es decir, la inserción y extracción de elementos de la cola siguiendo el principio FIFO. Cuando se agrega un elemento a la cola, éste se agrega al final. Cuando se elimina un elemento de la cola, se elimina el que está al frente de la cola, es decir, el primero. 

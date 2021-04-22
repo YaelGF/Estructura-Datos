@@ -1,0 +1,1 @@
+La recursividad es una técnica muy empleada en la programación informática y consiste en que una función se llame a sí misma. 
